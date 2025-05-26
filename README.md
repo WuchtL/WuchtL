@@ -1,8 +1,5 @@
-!WuchtL's GitHub Stats
-!Top Langs
-
-- **Languages:** JavaScript, TypeScript, C, C#, HTML, CSS
-- **Frameworks & Tools:** Node.js, Discord.js, Git, VS Code
+Software dev - mainly Javascript/TypeScript, a bit of HTML/CSS C/C++/C# and also PL/SQL
+I mainly just silly around with node.js/discord.js/mongoosejs while working on my private discord bot
 
 <!--
 **WuchtL/WuchtL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
