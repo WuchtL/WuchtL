@@ -1,5 +1,13 @@
-- Software dev - mainly Javascript/TypeScript, a bit of HTML/CSS C/C++/C# and also Oracle PL/SQL
-- I mainly just silly around with node.js/discord.js/mongoosejs while working on my private discord bot
+## Haiii hewwooo!! 👋 
+Just some femboy having fun coding stuff :3
+
+---
+
+<img src='https://skillicons.dev/icons?i=vscode,visualstudio'/>
+
+---
+
+<img src='https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,mongodb,c,cpp,cs,regex&theme=dark&perline=5'/>
 
 <!--
 **WuchtL/WuchtL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
