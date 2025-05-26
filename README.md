@@ -1,4 +1,8 @@
-## Hi there 👋
+!WuchtL's GitHub Stats
+!Top Langs
+
+- **Languages:** JavaScript, TypeScript, C, C#, HTML, CSS
+- **Frameworks & Tools:** Node.js, Discord.js, Git, VS Code
 
 <!--
 **WuchtL/WuchtL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
